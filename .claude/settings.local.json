@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm build)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\")",
+      "Bash(npx pnpm build)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:/usr/bin:/bin:$PATH\")"
+    ]
+  }
+}
