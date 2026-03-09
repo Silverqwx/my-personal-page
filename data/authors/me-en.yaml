@@ -9,11 +9,12 @@ name:
   pronunciation: ''
   pronouns: he/him
 
-role: PhD Student
+role: Ph.D.
 
 bio: |
-  Wenxiang Qin is a PhD student at the Hiroshima University High-Speed Vision Lab.
-  His research interests include robot vision, 3D reconstruction and digital twin.
+  Wenxiang Qin conducted his doctoral research at the Smart Robotics Laboratory, Graduate School of Advanced Science and Engineering, Hiroshima University, where he received his Doctor of Engineering degree under the supervision of Prof. Idaku Ishii. His doctoral research was supported by the JST Research Fellowship and the JST SPRING Fellowship. Prior to his doctoral studies, he worked as a 3D vision R&D engineer at the Institute of Automation, Chinese Academy of Sciences (Nanjing), focusing on visual 3D reconstruction algorithms and products.
+
+  His research interests include robot vision, 3D reconstruction, and digital twin. His doctoral work centered on multi-camera visual vibration measurement, where he proposed model-based 3D digital image vibration measurement methods, developed a visual digital twin system for vibrating objects, and successfully applied it to real-world scenarios such as bridge structural health monitoring. His work has been published in IEEE Transactions on Instrumentation and Measurement, among other international journals and conferences.
 
 affiliations:
   - name: Hiroshima University
