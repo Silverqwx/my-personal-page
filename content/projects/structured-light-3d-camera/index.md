@@ -4,6 +4,7 @@ summary: 3D Camera for scanning object to get 3D model based on structured light
 tags:
   - 3D Reconstruction
 date: '2018-06-03'
+featured: true
 image:
   focal_point: Smart
 ---

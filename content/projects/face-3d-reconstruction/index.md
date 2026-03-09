@@ -4,6 +4,7 @@ summary: High-speed Dynamic Face 3D Reconstruction System
 tags:
   - 3D Reconstruction
 date: '2021-05-01'
+featured: true
 image:
   focal_point: Smart
 ---
