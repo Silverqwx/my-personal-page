@@ -1,0 +1,15 @@
+# Navigation Links (Chinese)
+
+main:
+  - name: 简介
+    url: /
+    weight: 10
+  - name: 论文成果
+    url: publications/
+    weight: 11
+  - name: 经历
+    url: experience/
+    weight: 20
+  - name: 项目
+    url: projects/
+    weight: 30
