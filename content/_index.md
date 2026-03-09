@@ -37,16 +37,16 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research interests include **Computer Vision**, **3D Reconstruction** and **High-Speed Vision**. I focus on structured light 3D reconstruction, high-speed visual perception, and point cloud processing.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My research interests include **Computer Vision**, **3D Reconstruction** and **High-Speed Vision**. I focus on structured light 3D reconstruction, high-speed visual perception, and point cloud processing.
 
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
