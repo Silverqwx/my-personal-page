@@ -10,7 +10,10 @@
       "Bash(PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\" grep -o 'PhD Student\\\\|R&amp;D Engineer\\\\|Hiroshima University\\\\|Robot Vision\\\\|3D Reconstruction\\\\|Digital Twin\\\\|National Scholarship' /Users/qinwenxiang/Desktop/my-personal-page/public/en/index.html)",
       "Bash(hugo config)",
       "Bash(pnpm dev)",
-      "Bash(git -C /Users/qinwenxiang/Desktop/my-personal-page branch -a)"
+      "Bash(git -C /Users/qinwenxiang/Desktop/my-personal-page branch -a)",
+      "Bash(gh api repos/Silverqwx/silverqwx.github.io/actions/runs --jq '.workflow_runs[:3] | .[] | {status, conclusion, name, created_at}')",
+      "Bash(git mv static/uploads/resume-chinese.pdf static/uploads/tmp-resume-chinese.pdf)",
+      "Bash(git mv static/uploads/tmp-resume-chinese.pdf static/uploads/resume-Chinese.pdf)"
     ]
   }
 }
