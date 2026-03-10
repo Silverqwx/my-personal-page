@@ -7,7 +7,9 @@
       "Bash(export PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:/usr/bin:/bin:$PATH\")",
       "Bash(PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\" npx pnpm build)",
       "Bash(PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\" grep -o '博士生\\\\|研发工程师\\\\|广岛大学\\\\|机器人视觉\\\\|三维重建\\\\|数字孪生\\\\|国家奖学金' /Users/qinwenxiang/Desktop/my-personal-page/public/index.html)",
-      "Bash(PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\" grep -o 'PhD Student\\\\|R&amp;D Engineer\\\\|Hiroshima University\\\\|Robot Vision\\\\|3D Reconstruction\\\\|Digital Twin\\\\|National Scholarship' /Users/qinwenxiang/Desktop/my-personal-page/public/en/index.html)"
+      "Bash(PATH=\"$HOME/.nvm/versions/node/v22.22.1/bin:$PATH\" grep -o 'PhD Student\\\\|R&amp;D Engineer\\\\|Hiroshima University\\\\|Robot Vision\\\\|3D Reconstruction\\\\|Digital Twin\\\\|National Scholarship' /Users/qinwenxiang/Desktop/my-personal-page/public/en/index.html)",
+      "Bash(hugo config)",
+      "Bash(pnpm dev)"
     ]
   }
 }
