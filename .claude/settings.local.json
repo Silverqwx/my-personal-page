@@ -16,7 +16,8 @@
       "Bash(git mv static/uploads/tmp-resume-chinese.pdf static/uploads/resume-Chinese.pdf)",
       "Bash(xargs cat)",
       "WebSearch",
-      "WebFetch(domain:ieeexplore.ieee.org)"
+      "WebFetch(domain:ieeexplore.ieee.org)",
+      "WebFetch(domain:www.spiedigitallibrary.org)"
     ]
   }
 }

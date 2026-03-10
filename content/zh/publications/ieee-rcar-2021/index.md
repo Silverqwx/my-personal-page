@@ -26,6 +26,10 @@ tags:
 
 featured: false
 
+hugoblox:
+  ids:
+    doi: 10.1109/RCAR52367.2021.9517580
+
 links: []
 
 image:
