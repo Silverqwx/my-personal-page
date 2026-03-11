@@ -24,7 +24,10 @@
       "Bash(find /Users/qinwenxiang/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/kit/modules/slides* -name \"*.html\")",
       "Bash(grep -r \"youtube\" /Users/qinwenxiang/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/kit/modules/slides*)",
       "Bash(hugo --help)",
-      "Bash(hugo --gc --cleanDestinationDir)"
+      "Bash(hugo --gc --cleanDestinationDir)",
+      "Bash(ls -la /Users/qinwenxiang/Desktop/my-personal-page/assets/media/icon*)",
+      "Bash(find /Users/qinwenxiang/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/kit@v4.8.0*/exampleSite/assets -type f)",
+      "mcp__Claude_Preview__preview_start"
     ]
   }
 }
