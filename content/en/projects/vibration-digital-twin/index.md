@@ -8,6 +8,10 @@ date: '2022-04-01'
 featured: true
 image:
   focal_point: Smart
+links:
+  - url: "../publications/ieee-tim-2025"
+    label: "Publication"
+    icon: hero/document-text
 ---
 
 Based on a multi-camera system, targeting small-vibration semi-rigid objects, combined with a pre-placed 3D model with measurement points, developed a digital twin system for 3D vibration information (displacement sequences), enabling measurement, analysis, and historical playback and comparison of 3D vibration data.

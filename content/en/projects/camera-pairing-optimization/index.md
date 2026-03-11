@@ -8,6 +8,10 @@ date: '2024-01-01'
 featured: true
 image:
   focal_point: Smart
+links:
+  - url: "../publications/sensors-2025"
+    label: "Publication"
+    icon: hero/document-text
 ---
 
 For multi-camera panoramic measurement configurations in the self-developed vibration digital twin system, optimized camera pairing for 3D estimation by evaluating measurement reliability of camera pairs for specific measurement points.

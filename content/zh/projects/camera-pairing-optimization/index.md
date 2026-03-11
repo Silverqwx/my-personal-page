@@ -8,6 +8,10 @@ date: '2024-01-01'
 featured: true
 image:
   focal_point: Smart
+links:
+  - url: "../publications/sensors-2025"
+    label: "相关论文"
+    icon: hero/document-text
 ---
 
 针对自研振动信息数字孪生系统中的多相机全景测量配置，通过评估相机对对于特定测量点的测量可靠性，实现了3D 估计中的相机配对优化。

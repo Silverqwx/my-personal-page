@@ -8,6 +8,10 @@ date: '2023-01-01'
 featured: false
 image:
   focal_point: Smart
+links:
+  - url: "../publications/ieee-sensors-2024"
+    label: "相关论文"
+    icon: hero/document-text
 ---
 
 基于自研振动信息数字孪生系统，实现了桥梁的结构健康监测。

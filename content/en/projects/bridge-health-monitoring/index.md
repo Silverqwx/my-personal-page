@@ -8,6 +8,10 @@ date: '2023-01-01'
 featured: false
 image:
   focal_point: Smart
+links:
+  - url: "../publications/ieee-sensors-2024"
+    label: "Publication"
+    icon: hero/document-text
 ---
 
 Based on the self-developed vibration information digital twin system, achieved bridge structural health monitoring.
